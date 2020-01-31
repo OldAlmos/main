@@ -18,6 +18,6 @@ E | FD
 import numpy as np
 '''
 
- [x] Finish my changes :+1:
- [ ] Push my commits to GitHub
- [ ] Open a pull request
+- [x] Finish my changes :+1:
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
