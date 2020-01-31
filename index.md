@@ -14,9 +14,8 @@ C | D
 E | FD
 </p>
 
-''' import pandas as pd
-import numpy as np
-'''
+''' import pandas as pd  
+import numpy as np '''
 
 - [x] Finish my changes :+1:
 - [ ] Push my commits to GitHub
