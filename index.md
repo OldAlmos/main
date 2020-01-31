@@ -17,3 +17,7 @@ E | FD
 ''' import pandas as pd
 import numpy as np
 '''
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
