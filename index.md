@@ -21,3 +21,5 @@ import numpy as np
 - [x] Finish my changes :+1:
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit
