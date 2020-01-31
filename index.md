@@ -13,3 +13,7 @@ A | B
 C | D
 E | FD
 </p>
+
+''' import pandas as pd
+import numpy as np
+'''
