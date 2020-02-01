@@ -1,4 +1,9 @@
+body {
+  font-size: 1em;
+}
+
 h1 {
+  font-size: 3em;
   color : red;
   text-align : center;
   background : blue;
