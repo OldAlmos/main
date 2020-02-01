@@ -6,6 +6,10 @@ h1 {
   font-size: 3em;
   color : red;
   text-align : center;
-  background : blue;
+  margin-bottom: 1,5em;
 }
+p {
+  font-size: 1em;
+  margin-bottom: 1em;
 
+}
